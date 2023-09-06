@@ -6,6 +6,6 @@ of the Mass Rapid Transit Line-6 or MRT-6 which is a part of the ongoing Dhaka M
 Project in Bangladesh is well on course for delivery in December 2022. MRT-6 which is
 the country’s first metro rail which is running from Uttara to Agargaon.
 For this Metro rail we developed a web application which will control all the work behind the metro
-rail need. Like people can book ticket, administrator keep track about rail. Employee have
+rail needed. Like people can book ticket, administrator keep track about rail. Employee have
 some management system. In a word we will build a application that run the total metro rail
 project.
