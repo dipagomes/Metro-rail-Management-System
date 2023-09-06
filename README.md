@@ -8,7 +8,9 @@ the country’s first metro rail which is running from Uttara to Agargaon.
 For this Metro rail we developed a web application which will control all the work behind the metro
 rail needed. Like people can book ticket, administrator can keep track about rails and other information. Employee have
 some management system. In a word we will build a application that run the total metro rail
-project.
+project.<br>
+<br>
+<br>
 Here we wanted to make a complete web application that will control the whole metro-
 rail system. Now the world are more comfortable in
 web application. Because it's easy for collaboration and remote access. And it
